@@ -1,0 +1,3 @@
+# Snake-Game
+After getting to know the JFrame library a bit better we wanted to practice it in a fun way, and what better way is there to practice more than making a game! so we started and quickly we realized it wasn't only a practice to our window applications writing, it was also a nice logic writing practice. There a lot of more cool things we could of added but we kept it simple, feel free to download the source code and add your ideas to the game, link is down below.
+if you don't want to mess with the code and you have java installed feel free to just open the jar file located in the production folder and play!
